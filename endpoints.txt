@@ -1,0 +1,5 @@
+[GET] Fetch all Books = "/api/books"
+[GET] Fetch Single Book = "api/books/{id}"
+[DELETE] Delete Book = "api/books/{id}"
+[POST] Create new Book = "api/books"
+[PUT] Update a Book = "api/books/{id}"
